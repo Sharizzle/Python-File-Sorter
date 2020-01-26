@@ -1,4 +1,4 @@
-# Python Folder Sorter
+# Python File Sorter
 
 The purpose of this script is to automatically sort a directory using one Python 3 script. The default folders are Documents, Video, Audio, Images, Zip Files, Code, Folders, and Other. These can be changed later in the Python script. No external libraries are needed as it utilizes the shutil and os libraries only. 
 
